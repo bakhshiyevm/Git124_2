@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Git124_2
 {
-    internal class Turqut2
+    internal class turquttt
     {
     }
 }

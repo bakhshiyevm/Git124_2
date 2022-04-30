@@ -3,12 +3,11 @@
 namespace Git124_2
 {
     class Program
-        static void Main(string[] a223344)
+    {
+        static void Main(string[] args)
         {
             Console.WriteLine("hello m124");
-            Console.WriteLine("Salammmm");
+            Console.WriteLine("aliiiiii");
         }
-        //test
     }
-
 }
