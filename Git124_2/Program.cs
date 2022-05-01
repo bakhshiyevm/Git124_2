@@ -6,8 +6,7 @@ namespace Git124_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello m124");
-            Console.WriteLine("aliiiiii");
+            Console.WriteLine("Hello `1235523432eSWorld!");
         }
     }
 }
